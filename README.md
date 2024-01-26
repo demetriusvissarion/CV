@@ -1,69 +1,109 @@
-## Your Name
+## Demetrius Vissarion
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Junior Full Stack Engineer looking to be part of a team that values inclusivity, feedback, continual growth, and communication. Excited about leveraging my diverse skills in HTML, CSS, Python, JavaScript, React, and Node.js to contribute to a tech environment that fosters innovation and learning.
+After a successful career in construction engineering between 2014 and 2022, I had an accident that forced me to stay at home for 8 months. This time off proved to be an opportunity for me to pursue my lifelong dream of learning how to code and start changing my career towards Information Technology.
+
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                          | Tech/tools          |
+| ---------------------------- | ------------------------------------ | ------------------- |
+| **My-Reddit-Explorer**       | A web app to fetch subreddits        | React, Redux, API's |
+| **Expenses_Calculator**      | A web app to keep record of expenses | React, Redux        |
+
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Teque** (04/2023 to Present)  
+_Junior Full Stack Developer_
+- Developed and maintained several custom internal CMS platforms used for content updates, performance report analysis and importing of external APIs data. 
+- Developed and maintained databases, maximising data accuracy and integrity. 
+- Used TDD to develop new features (back-end and front-end). 
+- Wrote E2E front-end tests with Cypress.
+- Used technologies: HTML, CSS, PHP, Python, JavaScript, Node.js, Alpine JS, Laravel, Livewire, Tailwind, Bootstrap, Ajax, Json, Composer, Vagrant, VVV, WordPress, Gulp, Watch, Webpack, MySQL, MongoDB, Git, GitLab, Jenkins, Trello, Jira.
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+**Makers** (10/2023 to Present)  
+_Full Stack Engineering Bootcamp Student_
+- Built full-stack and frontend apps both individually and in teams using a variety of tech, including JavaScript, React.js, Node.js, Express.js, Python, Mongo.DB, Mongoose, PostgreSQL, HTML and CSS, and design patterns such as MVC, repository and dependency injection.
+- Created a full-stack mobile application with React Native, Node.js, Express.js and MongoDB.
+- Designed and implemented SQL and NoSQL databases; built RESTful APIs.
+- Carried out test-driven development (TDD) using Jest and Pytest (unit, integration and feature tests).
+- Developed a strong foundation in object-oriented programming in both Python and JavaScript.
+- Followed Agile practices including Scrum and Kanban. frequently collaborated with others through group projects and pair programming.
+- Participated in emotional intelligence workshops (on topics such as communication, teamwork, empathy and feedback)
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+#### Project Management:
+- Experience in project planning and management.
+- Achieved cost reductions through effective budget planning, development, and administration.
+- Completed projects ahead of schedule, demonstrating strong time management skills.
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+#### Team Leadership:
+- Led teams ranging from 4 to 44 members, demonstrating effective leadership and guidance.
+- Cross-team collaboration:
+- Collaborated with cross-functional teams of architects, engineers, and consultants to improve project outcomes.
 
+#### Communication:
+- Regularly attended team meetings to ensure program success.
+- Prepared and presented progress reports to clients and senior management.
+- Crafted and delivered progress reports and project updates to stakeholders.
 
-Here's an example
+#### Analytical and Problem-Solving:
+- Conducted strategic site analysis to uncover and minimise low-performing areas.
+- Evaluated and improved designs in cooperation with technical managers and design team members.
+- Negotiated and finalised costs and pricing for additional works.
 
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+#### Tech Proficiency:
+- Applied tech in construction, for tasks including inspections, and analysis.
+- Utilised computers, robotic EDMs and AutoCAD for setting out and data extraction.
 
-#### Another skill
+#### Efficiency Improvement:
+- Improved project outcomes and deliverables through leading-edge project governance plans.
+- Ensured end-to-end implementation of modules with a focus on improving production efficiency and supply chain management.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Research and Development:
+- Monitored and conducted research and development activities to enhance the performance and efficiency of new technologies and products.
 
-#### Another skill
+#### Cost Management:
+- Contributed to procurement with an emphasis on purchasing high-quality goods at low prices.
+- Negotiated and finalised costs and pricing for additional works.
+
+#### Regulatory Compliance:
+- Evaluated and aligned all engineering designs and plans with relevant industry regulations.
+
+#### Deadline Management:
+- Completed projects ahead of schedule.
 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (10/2023 to Present)  
+_Full Stack Engineering Bootcamp Student_
+- Built full-stack and frontend apps both individually and in teams using a variety of tech, including JavaScript, React.js, Node.js, Express.js, Python, Mongo.DB, Mongoose, PostgreSQL, HTML and CSS, and design patterns such as MVC, repository and dependency injection.
+- Created a full-stack mobile application with React Native, Node.js, Express.js and MongoDB.
+- Designed and implemented SQL and NoSQL databases; built RESTful APIs.
+- Carried out test-driven development (TDD) using Jest and Pytest (unit, integration and feature tests).
+- Developed a strong foundation in object-oriented programming in both Python and JavaScript.
+- Followed Agile practices including Scrum and Kanban. frequently collaborated with others through group projects and pair programming.
+- Participated in emotional intelligence workshops (on topics such as communication, teamwork, empathy and feedback)
 
-#### Your University / College (start_date to end_date)
+#### University of Rouen (2004 to 2007)
+- Bachelor’s degree in Physics, specialisms: Mecanics and Science of materials
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Valahia University (2012 to 2014)
+- Master's degree in Organisational Management
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+#### Other Licences & Certifications
+- Learn Git & GitHub Course, Codecademy – 2023
+- Learn React Router v6 Course, Codecademy – 2023
+- Learn Node.js Course, Codecademy – 2023
+- Learn Redux Course, Codecademy – 2023
+- Learn React Course, Codecademy – 2023
+- Learn JavaScript Course, Codecademy – 2022
+- Learn CSS Course, Codecademy – 2022
+- Learn HTML Course, Codecademy – 2022
 
 ## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+Travel, Hiking, Squash, Brazilian jiu-jitsu, Occasional computer gaming
