@@ -14,23 +14,23 @@ After a successful career in construction engineering between 2014 and 2022, I h
 
 ## Work Experience
 
-**Teque** (04/2023 to Present)  
+**Makers** (10/2023 to 03/2024)  
+_Full Stack Engineering Bootcamp Student_
+- Built full-stack and frontend apps both individually and in teams using a variety of tech, including JavaScript, React.js, Node.js, Express.js, Python, Mongo.DB, Mongoose, PostgreSQL, HTML and CSS, and design patterns such as MVC, repository and dependency injection.
+- Created a full-stack web application with React.js, Node.js, Express.js and MongoDB.
+- Designed and implemented SQL and NoSQL databases; built RESTful APIs.
+- Carried out test-driven development (TDD) using Jest and Pytest (unit, integration and feature tests).
+- Developed a strong foundation in object-oriented programming in both Python and JavaScript.
+- Followed Agile practices including Scrum and Kanban. frequently collaborated with others through group projects and pair programming.
+- Participated in emotional intelligence workshops (on topics such as communication, teamwork, empathy and feedback)
+  
+**Teque** (04/2023 to 03/2024)  
 _Junior Full Stack Developer_
 - Developed and maintained several custom internal CMS platforms used for content updates, performance report analysis and importing of external APIs data. 
 - Developed and maintained databases, maximising data accuracy and integrity. 
 - Used TDD to develop new features (back-end and front-end). 
 - Wrote E2E front-end tests with Cypress.
 - Used technologies: HTML, CSS, PHP, Python, JavaScript, Node.js, Alpine JS, Laravel, Livewire, Tailwind, Bootstrap, Ajax, Json, Composer, Vagrant, VVV, WordPress, Gulp, Watch, Webpack, MySQL, MongoDB, Git, GitLab, Jenkins, Trello, Jira.
-
-**Makers** (10/2023 to Present)  
-_Full Stack Engineering Bootcamp Student_
-- Built full-stack and frontend apps both individually and in teams using a variety of tech, including JavaScript, React.js, Node.js, Express.js, Python, Mongo.DB, Mongoose, PostgreSQL, HTML and CSS, and design patterns such as MVC, repository and dependency injection.
-- Created a full-stack mobile application with React Native, Node.js, Express.js and MongoDB.
-- Designed and implemented SQL and NoSQL databases; built RESTful APIs.
-- Carried out test-driven development (TDD) using Jest and Pytest (unit, integration and feature tests).
-- Developed a strong foundation in object-oriented programming in both Python and JavaScript.
-- Followed Agile practices including Scrum and Kanban. frequently collaborated with others through group projects and pair programming.
-- Participated in emotional intelligence workshops (on topics such as communication, teamwork, empathy and feedback)
 
 
 ## Skills
